@@ -1,5 +1,6 @@
 // pages/test.tsx
 import Head from 'next/head';
+import React from 'react';
 
 const Test: React.FC = () => {
   return (

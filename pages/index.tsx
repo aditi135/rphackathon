@@ -1,4 +1,5 @@
 import Head from 'next/head';
+import Link from 'next/link';
 
 export default function Home() {
   const sceneStyles = {
@@ -46,9 +47,9 @@ export default function Home() {
     backgroundImage: 'linear-gradient(315deg, #a40606 0%, #d98324 74%)',
     animation: 'set 5s ease infinite', // Ensure this matches the keyframes name and desired duration
     boxShadow: '0 0 210px 100px rgba(253, 143, 54, 0.6), 0 0 210px 200px rgba(251, 167, 98, 0.781)',
-    position: 'absolute', 
-    top: '53%', 
-    left: '42.4%', 
+    position: 'absolute',
+    top: '53%',
+    left: '42.4%',
   };
 
   const starStyles = {
@@ -66,6 +67,22 @@ export default function Home() {
     zIndex: '-1',
     borderRadius: '50%',
     animation: 'stars var(--time) infinite',
+  };
+
+  const buttonStyle = {
+    padding: '15px 30px', // Adjusted padding for top and bottom to center the button vertically
+    fontSize: '1rem',
+    fontWeight: 'bold',
+    borderRadius: '20px', // Adjusted for more curvature
+    backgroundColor: '#bd4f6c', // Purple background color
+    color: 'white',
+    border: 'none',
+    cursor: 'pointer',
+    textDecoration: 'none',
+    position: 'absolute',
+    top: '20px', // Adjusted top position for vertical centering
+    left: '50%', // Center horizontally
+    transform: 'translateX(-50%)', // Center horizontally exactly
   };
 
   return (
@@ -117,8 +134,12 @@ export default function Home() {
           {/* Display the sun */}
           <div style={sunStyles}></div>
         </div>
-        <div style={{ ...ocean, height: '50%' }}></div>
+        <div style={{ ...ocean, height: '50%' }}>
+          <Link href="/test" passHref>
+            <div style={buttonStyle}>Go</div>
+          </Link>
+        </div>
       </div>
     </>
   );
-}y
+}
