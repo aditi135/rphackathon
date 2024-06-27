@@ -50,7 +50,7 @@ export default function Map() {
               <h1>Left</h1>
               <div className={styles.googlemap}>
               <iframe
-                src= {coords["12th Street"]}
+                src= {coords["57th Street"]}
                 width={600}
                 height={450}
                 style={{ border: '0' }}
