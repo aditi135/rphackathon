@@ -10,10 +10,8 @@ from datetime import timedelta
 # Load the dataset
 data = pd.read_csv('beach_advisory/data-configuration/FINAL_data_merged.csv')
 
-# Specify the exact format of the timestamps if known
-# Assuming 'Measurement Timestamp' is in the format 'YYYY-MM-DD HH:MM:SS'
+
 data['Measurement Timestamp'] = pd.to_datetime(data['Measurement Timestamp'], format='%Y-%m-%d %H:%M:%S', errors='coerce')
-# Assuming 'Date' is in the format 'YYYY-MM-DD'
 data['Date'] = pd.to_datetime(data['Date'], format='%Y-%m-%d', errors='coerce')
 
 # Extract date features
@@ -37,16 +35,12 @@ initial_rf.fit(X_train, y_train)
 
 # Predict and evaluate the initial model
 y_pred_initial = initial_rf.predict(X_test)
-rmse_initial = np.sqrt(mean_squared_error(y_test, y_pred_initial))
-mae_initial = mean_absolute_error(y_test, y_pred_initial)
-r2_initial = r2_score(y_test, y_pred_initial)
-
 
 # Get feature importances and sort them
 feature_importances = initial_rf.feature_importances_
 features_sorted = np.argsort(feature_importances)
 
-# Remove the least important features (e.g., remove features with importance less than a threshold)
+# Remove the least important features 
 threshold = 0.02
 important_features = [X.columns[i] for i in features_sorted if feature_importances[i] >= threshold]
 
@@ -73,14 +67,7 @@ best_rf = grid_search.best_estimator_
 
 # Predict and evaluate with the important features only
 y_pred_important = best_rf.predict(X_test_important)
-rmse_important = np.sqrt(mean_squared_error(y_test, y_pred_important))
-mae_important = mean_absolute_error(y_test, y_pred_important)
-r2_important = r2_score(y_test, y_pred_important)
 
-
-# Cross-validation score with important features only
-cv_scores_important = cross_val_score(best_rf, X_important, y, cv=5, scoring='neg_mean_squared_error')
-cv_rmse_scores_important = np.sqrt(-cv_scores_important)
 
 # Future predictions with important features only
 future_data = pd.DataFrame()
