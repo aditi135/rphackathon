@@ -1,4 +1,5 @@
 # Beach Water Quality Prediction
+Contributors: Celina Anwar, Warren Lam, Swathi Sureshmoorthy, Caleb Peach, Aditi Kumar, and Leor Porat
 
 This project predicts E. coli and Enterococci levels for Chicago beaches using machine learning. It leverages data from various sources to make these predictions and saves the results in a JSON file. The project includes a frontend written with Next.js in Typescript to display the prediction.
 
