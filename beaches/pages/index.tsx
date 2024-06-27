@@ -70,17 +70,19 @@ export default function Home() {
   };
 
   const buttonStyle = {
-    marginTop: '20px',
-    padding: '10px 20px',
+    padding: '15px 30px', // Adjusted padding for top and bottom to center the button vertically
     fontSize: '1rem',
     fontWeight: 'bold',
-    color: '#fff',
-    backgroundColor: 'transparent',
+    borderRadius: '20px', // Adjusted for more curvature
+    backgroundColor: '#bd4f6c', // Purple background color
+    color: 'white',
     border: 'none',
-    borderRadius: '5px',
     cursor: 'pointer',
     textDecoration: 'none',
-    textAlign: 'center',
+    position: 'absolute',
+    top: '20px', // Adjusted top position for vertical centering
+    left: '50%', // Center horizontally
+    transform: 'translateX(-50%)', // Center horizontally exactly
   };
 
   return (
