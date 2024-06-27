@@ -1,0 +1,47 @@
+[
+  {
+    "id": "north-avenue",
+    "name": "North Avenue Beach",
+    "statistics": {
+      "waterTemperature": 72,
+      "waveHeight": 0.5,
+      "crowdedness": 8
+    }
+  },
+  {
+    "id": "oak-street",
+    "name": "Oak Street Beach",
+    "statistics": {
+      "waterTemperature": 71,
+      "waveHeight": 0.3,
+      "crowdedness": 6
+    }
+  },
+  {
+    "id": "montrose",
+    "name": "Montrose Beach",
+    "statistics": {
+      "waterTemperature": 70,
+      "waveHeight": 0.6,
+      "crowdedness": 7
+    }
+  },
+  {
+    "id": "foster",
+    "name": "Foster Beach",
+    "statistics": {
+      "waterTemperature": 69,
+      "waveHeight": 0.4,
+      "crowdedness": 5
+    }
+  },
+  {
+    "id": "57th-street",
+    "name": "57th Street Beach",
+    "statistics": {
+      "waterTemperature": 73,
+      "waveHeight": 0.2,
+      "crowdedness": 4
+    }
+  }
+]

@@ -3,10 +3,33 @@
 import styles from "../styles/main.module.css";
 import Head from "next/head";
 import Beaches from "../components/Beaches.js"
+import BeachTab from "../components/BeachTab.js"
+import {useState, useEffect} from "react"
 
 import coords from "./data-storage/coordinates-beach.json"
 
 export default function Map() {
+
+  const [beaches, setBeaches] = useState([]);
+  const [isLoading, setIsLoading] = useState(true);
+
+  useEffect(() => {
+    async function fetchBeaches() {
+      try {
+        const response = await fetch('/beaches.json');
+        
+        const data = await response.json();
+        console.log('hello!');
+        console.log(data);
+        setBeaches(data);
+      } catch (error) {
+        console.error('Error fetching beach data:', error);
+      } finally {
+        setIsLoading(false);
+      }
+    }
+    fetchBeaches();
+  }, []);
     return (
       <>
         <Head>
@@ -37,7 +60,9 @@ export default function Map() {
 
             <div className={styles.right}>
               <h2>Results - Right</h2>
-              <Beaches name={"name"} />
+              {beaches.map((beach) => (
+                <BeachTab beach={beach} key={beach.id}/>
+              ))}
             </div>
 
           </div>
