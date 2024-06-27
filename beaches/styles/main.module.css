@@ -12,58 +12,79 @@
   }
   
   .columns {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    width: 100%;
-    gap: 1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  gap: 1rem;
+  background: linear-gradient(180deg, #ff9f80 0%, #ff6b6b 50%, #7f4162 100%);
+  padding: 2rem;
+  border-radius: 3rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.columns .right,
+.columns .left {
+  flex: 1;
+  padding: 1rem;
+  margin: 1rem;
+  box-sizing: border-box;
+  border-radius: 2rem;
+  background-color: rgba(255, 255, 255, 0.1);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  color: white;
+  transition: all 0.3s ease;
+}
+
+.columns .left {
+  flex: 1.5;
+}
+
+.columns .right h1,
+.columns .left h1 {
+  color: #ffcc80;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+.columns .right:hover,
+.columns .left:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);
+}
+
+.googlemap {
+  border-radius: 1rem;
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.googlemap iframe {
+  display: block;
+  width: 100%;
+  border: none;
+}
+
+@media (max-width: 767px) {
+  .columns {
+    flex-direction: column;
+    padding: 1rem;
   }
-  
+  .columns .left,
   .columns .right {
-    flex: 1;
-    padding: 1rem;
-    margin: 1rem;
-    box-sizing: border-box;
-    border-radius: 2rem;
-    height: 100%;
-    background-color: rgb(255, 255, 255);
-    box-shadow: 0.2rem 0.2rem #808080;
-    color: black;
-  
+    width: 100%;
+    margin: 0.5rem 0;
   }
-  
-  .columns .left {
-    flex: 1.5;
-    padding: 1rem;
-    margin: 1rem;
-    box-sizing: border-box;
-    border-radius: 2rem;
-    background-color:  #ffffff;
-    box-shadow: 0.2rem 0.2rem #808080;
-    height: 100%;
-    color: black;
+}
+
+@media (max-height: 767px) {
+  .columns {
+    flex-direction: column;
+    padding: 0.5rem;
   }
-  
-  @media (max-width: 767px ) {
-    .columns {
-      flex-direction: column;
-    }
-    .columns .left,
-    .columns .right {
-      width: 90%;
-      margin: 5%;
-      border-radius: 2rem;
-    }
+  .columns .left,
+  .columns .right {
+    width: 100%;
+    margin: 0.25rem 0;
+    border-radius: 1rem;
   }
-  
-  @media (max-height: 767px ) {
-    .columns {
-      flex-direction: column;
-    }
-    .columns .left,
-    .columns .right {
-      width: 100%;
-      margin: 0;
-      border-radius: 0;
-    }
-  }
+}
