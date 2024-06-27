@@ -62,6 +62,7 @@
   display: block;
   width: 100%;
   border: none;
+  height: 90vh;
 }
 
 @media (max-width: 767px) {
