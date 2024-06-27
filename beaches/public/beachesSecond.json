@@ -1,0 +1,450 @@
+{
+    "12th Street": {
+        "2023-08-27": {
+            "Predicted Ecoli Level": 154.20659252449607,
+            "Predicted DNA Reading Mean": 695.2814810850463
+        },
+        "2023-08-28": {
+            "Predicted Ecoli Level": 160.1229825405594,
+            "Predicted DNA Reading Mean": 675.6746424474157
+        },
+        "2023-08-29": {
+            "Predicted Ecoli Level": 158.99948969977405,
+            "Predicted DNA Reading Mean": 663.6159060414438
+        },
+        "2023-08-30": {
+            "Predicted Ecoli Level": 160.90514359970416,
+            "Predicted DNA Reading Mean": 665.2534593055339
+        },
+        "2023-08-31": {
+            "Predicted Ecoli Level": 159.82383654541525,
+            "Predicted DNA Reading Mean": 654.6206632141606
+        },
+        "2023-09-01": {
+            "Predicted Ecoli Level": 159.3581711318814,
+            "Predicted DNA Reading Mean": 649.0669288783209
+        },
+        "2023-09-02": {
+            "Predicted Ecoli Level": 158.1537811379945,
+            "Predicted DNA Reading Mean": 718.1543514495172
+        },
+        "url": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2969.5188387547646!2d-87.6260749240441!3d41.90320396384217!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDU0JzExLjUiTiA4N8KwMzcnMjQuNiJX!5e0!3m2!1sen!2sus!4v1719450026483!5m2!1sen!2sus"
+
+    },
+    "57th Street": {
+        "2023-08-27": {
+            "Predicted Ecoli Level": 168.79375403218856,
+            "Predicted DNA Reading Mean": 688.1257220069549
+        },
+        "2023-08-28": {
+            "Predicted Ecoli Level": 170.29672216090842,
+            "Predicted DNA Reading Mean": 684.9032585086634
+        },
+        "2023-08-29": {
+            "Predicted Ecoli Level": 171.15572958990512,
+            "Predicted DNA Reading Mean": 701.7078341572226
+        },
+        "2023-08-30": {
+            "Predicted Ecoli Level": 170.26735869029554,
+            "Predicted DNA Reading Mean": 714.1787246430434
+        },
+        "2023-08-31": {
+            "Predicted Ecoli Level": 171.3585860831019,
+            "Predicted DNA Reading Mean": 710.9595425662297
+        },
+        "2023-09-01": {
+            "Predicted Ecoli Level": 172.10632306002228,
+            "Predicted DNA Reading Mean": 710.7872395535993
+        },
+        "2023-09-02": {
+            "Predicted Ecoli Level": 170.79698431832392,
+            "Predicted DNA Reading Mean": 704.3737172114263
+        },
+        "url": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2969.5188387547646!2d-87.6260749240441!3d41.90320396384217!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDU0JzExLjUiTiA4N8KwMzcnMjQuNiJX!5e0!3m2!1sen!2sus!4v1719450026483!5m2!1sen!2sus"
+
+    },
+    "Margaret T Burroughs (31st)": {
+        "2023-08-27": {
+            "Predicted Ecoli Level": 175.9487439304,
+            "Predicted DNA Reading Mean": 683.1960095996025
+        },
+        "2023-08-28": {
+            "Predicted Ecoli Level": 176.43083409214364,
+            "Predicted DNA Reading Mean": 679.1922990682874
+        },
+        "2023-08-29": {
+            "Predicted Ecoli Level": 177.28984152114035,
+            "Predicted DNA Reading Mean": 695.9968747168466
+        },
+        "2023-08-30": {
+            "Predicted Ecoli Level": 178.24652944506013,
+            "Predicted DNA Reading Mean": 703.9796036959593
+        },
+        "2023-08-31": {
+            "Predicted Ecoli Level": 180.51846335960562,
+            "Predicted DNA Reading Mean": 710.0452943308162
+        },
+        "2023-09-01": {
+            "Predicted Ecoli Level": 181.266200336526,
+            "Predicted DNA Reading Mean": 709.8729913181858
+        },
+        "2023-09-02": {
+            "Predicted Ecoli Level": 179.95686159482767,
+            "Predicted DNA Reading Mean": 703.4594689760128
+        },
+        "url": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2969.5188387547646!2d-87.6260749240441!3d41.90320396384217!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDU0JzExLjUiTiA4N8KwMzcnMjQuNiJX!5e0!3m2!1sen!2sus!4v1719450026483!5m2!1sen!2sus"
+
+    },
+    "Oakwood": {
+        "2023-08-27": {
+            "Predicted Ecoli Level": 169.47946104753427,
+            "Predicted DNA Reading Mean": 675.5757412532586
+        },
+        "2023-08-28": {
+            "Predicted Ecoli Level": 171.8066100328073,
+            "Predicted DNA Reading Mean": 667.0838692152353
+        },
+        "2023-08-29": {
+            "Predicted Ecoli Level": 172.665617461804,
+            "Predicted DNA Reading Mean": 683.8884448637945
+        },
+        "2023-08-30": {
+            "Predicted Ecoli Level": 171.7772465621944,
+            "Predicted DNA Reading Mean": 696.3593353496154
+        },
+        "2023-08-31": {
+            "Predicted Ecoli Level": 174.04918047673988,
+            "Predicted DNA Reading Mean": 702.4250259844723
+        },
+        "2023-09-01": {
+            "Predicted Ecoli Level": 174.79691745366026,
+            "Predicted DNA Reading Mean": 702.2527229718419
+        },
+        "2023-09-02": {
+            "Predicted Ecoli Level": 173.48757871196193,
+            "Predicted DNA Reading Mean": 695.8392006296688
+        },
+        "url": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2969.5188387547646!2d-87.6260749240441!3d41.90320396384217!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDU0JzExLjUiTiA4N8KwMzcnMjQuNiJX!5e0!3m2!1sen!2sus!4v1719450026483!5m2!1sen!2sus"
+
+    },
+    "Foster": {
+        "2023-08-27": {
+            "Predicted Ecoli Level": 140.01506039525577,
+            "Predicted DNA Reading Mean": 718.0490475844358
+        },
+        "2023-08-28": {
+            "Predicted Ecoli Level": 137.95069050792026,
+            "Predicted DNA Reading Mean": 401.5402004380886
+        },
+        "2023-08-29": {
+            "Predicted Ecoli Level": 138.44074984744552,
+            "Predicted DNA Reading Mean": 398.7517445557357
+        },
+        "2023-08-30": {
+            "Predicted Ecoli Level": 138.52855282528483,
+            "Predicted DNA Reading Mean": 392.85817922794246
+        },
+        "2023-08-31": {
+            "Predicted Ecoli Level": 137.43471270268702,
+            "Predicted DNA Reading Mean": 392.89143884586287
+        },
+        "2023-09-01": {
+            "Predicted Ecoli Level": 136.67400218957616,
+            "Predicted DNA Reading Mean": 390.6518830586955
+        },
+        "2023-09-02": {
+            "Predicted Ecoli Level": 137.593572908719,
+            "Predicted DNA Reading Mean": 386.01847722347503
+        },
+        "url": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2969.5188387547646!2d-87.6260749240441!3d41.90320396384217!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDU0JzExLjUiTiA4N8KwMzcnMjQuNiJX!5e0!3m2!1sen!2sus!4v1719450026483!5m2!1sen!2sus"
+
+    },
+    "Hartigan (Albion)": {
+        "2023-08-27": {
+            "Predicted Ecoli Level": 129.55587326661097,
+            "Predicted DNA Reading Mean": 570.6965580275112
+        },
+        "2023-08-28": {
+            "Predicted Ecoli Level": 130.8929796836449,
+            "Predicted DNA Reading Mean": 517.1134690712793
+        },
+        "2023-08-29": {
+            "Predicted Ecoli Level": 131.33929710257925,
+            "Predicted DNA Reading Mean": 516.665903078123
+        },
+        "2023-08-30": {
+            "Predicted Ecoli Level": 132.01748591852575,
+            "Predicted DNA Reading Mean": 504.6236606781854
+        },
+        "2023-08-31": {
+            "Predicted Ecoli Level": 130.92364579592797,
+            "Predicted DNA Reading Mean": 504.6569202961056
+        },
+        "2023-09-01": {
+            "Predicted Ecoli Level": 129.52893786929096,
+            "Predicted DNA Reading Mean": 509.02359957106063
+        },
+        "2023-09-02": {
+            "Predicted Ecoli Level": 130.44850858843378,
+            "Predicted DNA Reading Mean": 504.3901937358401
+        },
+        "url": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2969.5188387547646!2d-87.6260749240441!3d41.90320396384217!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDU0JzExLjUiTiA4N8KwMzcnMjQuNiJX!5e0!3m2!1sen!2sus!4v1719450026483!5m2!1sen!2sus"
+
+    },
+    "Marion Mahony Griffin (Jarvis)": {
+        "2023-08-27": {
+            "Predicted Ecoli Level": 128.09318911787446,
+            "Predicted DNA Reading Mean": 576.4043398209424
+        },
+        "2023-08-28": {
+            "Predicted Ecoli Level": 129.47213212838264,
+            "Predicted DNA Reading Mean": 519.9683317801213
+        },
+        "2023-08-29": {
+            "Predicted Ecoli Level": 129.91844954731695,
+            "Predicted DNA Reading Mean": 519.520765786965
+        },
+        "2023-08-30": {
+            "Predicted Ecoli Level": 130.59663836326345,
+            "Predicted DNA Reading Mean": 507.4785233870272
+        },
+        "2023-08-31": {
+            "Predicted Ecoli Level": 129.5027982406657,
+            "Predicted DNA Reading Mean": 507.51178300494746
+        },
+        "2023-09-01": {
+            "Predicted Ecoli Level": 128.1080903140287,
+            "Predicted DNA Reading Mean": 511.87846227990246
+        },
+        "2023-09-02": {
+            "Predicted Ecoli Level": 128.43758453739196,
+            "Predicted DNA Reading Mean": 511.6499898793889
+        },
+        "url": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2969.5188387547646!2d-87.6260749240441!3d41.90320396384217!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDU0JzExLjUiTiA4N8KwMzcnMjQuNiJX!5e0!3m2!1sen!2sus!4v1719450026483!5m2!1sen!2sus"
+
+    },
+    "Osterman": {
+        "2023-08-27": {
+            "Predicted Ecoli Level": 141.8462570138465,
+            "Predicted DNA Reading Mean": 529.3019866920688
+        },
+        "2023-08-28": {
+            "Predicted Ecoli Level": 141.60143076189547,
+            "Predicted DNA Reading Mean": 491.98241376120114
+        },
+        "2023-08-29": {
+            "Predicted Ecoli Level": 142.04774818082979,
+            "Predicted DNA Reading Mean": 491.53484776804487
+        },
+        "2023-08-30": {
+            "Predicted Ecoli Level": 142.72593699677628,
+            "Predicted DNA Reading Mean": 479.4926053681071
+        },
+        "2023-08-31": {
+            "Predicted Ecoli Level": 141.63209687417847,
+            "Predicted DNA Reading Mean": 479.5258649860275
+        },
+        "2023-09-01": {
+            "Predicted Ecoli Level": 140.6998486847057,
+            "Predicted DNA Reading Mean": 475.1382184219048
+        },
+        "2023-09-02": {
+            "Predicted Ecoli Level": 141.61941940384858,
+            "Predicted DNA Reading Mean": 470.5048125866843
+        },
+        "url": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2969.5188387547646!2d-87.6260749240441!3d41.90320396384217!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDU0JzExLjUiTiA4N8KwMzcnMjQuNiJX!5e0!3m2!1sen!2sus!4v1719450026483!5m2!1sen!2sus"
+
+    },
+    "Howard": {
+        "2023-08-27": {
+            "Predicted Ecoli Level": 112.1698780159035,
+            "Predicted DNA Reading Mean": 288.6581544444748
+        },
+        "2023-08-28": {
+            "Predicted Ecoli Level": 112.39356209566499,
+            "Predicted DNA Reading Mean": 283.0595901116374
+        },
+        "2023-08-29": {
+            "Predicted Ecoli Level": 112.11637321920698,
+            "Predicted DNA Reading Mean": 280.6842624932942
+        },
+        "2023-08-30": {
+            "Predicted Ecoli Level": 112.2619951164597,
+            "Predicted DNA Reading Mean": 283.6074749739196
+        },
+        "2023-08-31": {
+            "Predicted Ecoli Level": 112.2619951164597,
+            "Predicted DNA Reading Mean": 283.6074749739196
+        },
+        "2023-09-01": {
+            "Predicted Ecoli Level": 112.2619951164597,
+            "Predicted DNA Reading Mean": 283.6074749739196
+        },
+        "2023-09-02": {
+            "Predicted Ecoli Level": 111.96698717176136,
+            "Predicted DNA Reading Mean": 286.19740035927845
+        },
+        "url": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2969.5188387547646!2d-87.6260749240441!3d41.90320396384217!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDU0JzExLjUiTiA4N8KwMzcnMjQuNiJX!5e0!3m2!1sen!2sus!4v1719450026483!5m2!1sen!2sus"
+
+    },
+    "Leone": {
+        "2023-08-27": {
+            "Predicted Ecoli Level": 184.98886286851504,
+            "Predicted DNA Reading Mean": 1368.5652690120812
+        },
+        "2023-08-28": {
+            "Predicted Ecoli Level": 189.53337188661826,
+            "Predicted DNA Reading Mean": 1238.842541396738
+        },
+        "2023-08-29": {
+            "Predicted Ecoli Level": 188.57492657739027,
+            "Predicted DNA Reading Mean": 1236.1024866012613
+        },
+        "2023-08-30": {
+            "Predicted Ecoli Level": 188.45638379830334,
+            "Predicted DNA Reading Mean": 1224.0469412385391
+        },
+        "2023-08-31": {
+            "Predicted Ecoli Level": 187.80822510125583,
+            "Predicted DNA Reading Mean": 1225.297847849579
+        },
+        "2023-09-01": {
+            "Predicted Ecoli Level": 187.04950438232103,
+            "Predicted DNA Reading Mean": 1227.876435502799
+        },
+        "2023-09-02": {
+            "Predicted Ecoli Level": 186.9295059914837,
+            "Predicted DNA Reading Mean": 1220.5304621713021
+        },
+        "url": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2969.5188387547646!2d-87.6260749240441!3d41.90320396384217!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDU0JzExLjUiTiA4N8KwMzcnMjQuNiJX!5e0!3m2!1sen!2sus!4v1719450026483!5m2!1sen!2sus"
+
+    },
+    "North Avenue": {
+        "2023-08-27": {
+            "Predicted Ecoli Level": 122.25187845625187,
+            "Predicted DNA Reading Mean": 263.09769886953336
+        },
+        "2023-08-28": {
+            "Predicted Ecoli Level": 123.89366965098236,
+            "Predicted DNA Reading Mean": 275.96719516197356
+        },
+        "2023-08-29": {
+            "Predicted Ecoli Level": 123.6090881709896,
+            "Predicted DNA Reading Mean": 271.5211290609546
+        },
+        "2023-08-30": {
+            "Predicted Ecoli Level": 123.64008648316569,
+            "Predicted DNA Reading Mean": 273.8990922616393
+        },
+        "2023-08-31": {
+            "Predicted Ecoli Level": 122.65203216079365,
+            "Predicted DNA Reading Mean": 272.5639680103954
+        },
+        "2023-09-01": {
+            "Predicted Ecoli Level": 122.86663045376197,
+            "Predicted DNA Reading Mean": 282.5305314887379
+        },
+        "2023-09-02": {
+            "Predicted Ecoli Level": 122.39300551303177,
+            "Predicted DNA Reading Mean": 289.41757714341514
+        },
+        "url": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2969.5188387547646!2d-87.6260749240441!3d41.90320396384217!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDU0JzExLjUiTiA4N8KwMzcnMjQuNiJX!5e0!3m2!1sen!2sus!4v1719450026483!5m2!1sen!2sus"
+
+    },
+    "Oak Street": {
+        "2023-08-27": {
+            "Predicted Ecoli Level": 135.17245803138425,
+            "Predicted DNA Reading Mean": 335.55819890981394
+        },
+        "2023-08-28": {
+            "Predicted Ecoli Level": 135.40362788173704,
+            "Predicted DNA Reading Mean": 347.7580883070236
+        },
+        "2023-08-29": {
+            "Predicted Ecoli Level": 134.64704870987418,
+            "Predicted DNA Reading Mean": 336.0123327964777
+        },
+        "2023-08-30": {
+            "Predicted Ecoli Level": 134.64704870987418,
+            "Predicted DNA Reading Mean": 336.0123327964777
+        },
+        "2023-08-31": {
+            "Predicted Ecoli Level": 135.10193871265892,
+            "Predicted DNA Reading Mean": 336.4976244979536
+        },
+        "2023-09-01": {
+            "Predicted Ecoli Level": 135.41618050233907,
+            "Predicted DNA Reading Mean": 338.03782464984636
+        },
+        "2023-09-02": {
+            "Predicted Ecoli Level": 133.76657149401623,
+            "Predicted DNA Reading Mean": 333.32470629511727
+        },
+        "url": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2969.5188387547646!2d-87.6260749240441!3d41.90320396384217!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDU0JzExLjUiTiA4N8KwMzcnMjQuNiJX!5e0!3m2!1sen!2sus!4v1719450026483!5m2!1sen!2sus"
+
+    },
+    "Ohio Street": {
+        "2023-08-27": {
+            "Predicted Ecoli Level": 136.56634798105142,
+            "Predicted DNA Reading Mean": 505.5370479483555
+        },
+        "2023-08-28": {
+            "Predicted Ecoli Level": 137.63351254452124,
+            "Predicted DNA Reading Mean": 407.53547012515435
+        },
+        "2023-08-29": {
+            "Predicted Ecoli Level": 136.2867730341629,
+            "Predicted DNA Reading Mean": 382.87835588193394
+        },
+        "2023-08-30": {
+            "Predicted Ecoli Level": 136.2867730341629,
+            "Predicted DNA Reading Mean": 382.87835588193394
+        },
+        "2023-08-31": {
+            "Predicted Ecoli Level": 135.19158439509096,
+            "Predicted DNA Reading Mean": 374.78770633188367
+        },
+        "2023-09-01": {
+            "Predicted Ecoli Level": 135.25604335322902,
+            "Predicted DNA Reading Mean": 385.74419750942513
+        },
+        "2023-09-02": {
+            "Predicted Ecoli Level": 134.76525499970685,
+            "Predicted DNA Reading Mean": 393.8500290132586
+        },
+        "url": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2969.5188387547646!2d-87.6260749240441!3d41.90320396384217!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDU0JzExLjUiTiA4N8KwMzcnMjQuNiJX!5e0!3m2!1sen!2sus!4v1719450026483!5m2!1sen!2sus"
+
+    },
+    "Rogers": {
+        "2023-08-27": {
+            "Predicted Ecoli Level": 122.42592389510898,
+            "Predicted DNA Reading Mean": 862.9826930542426
+        },
+        "2023-08-28": {
+            "Predicted Ecoli Level": 122.19118053316211,
+            "Predicted DNA Reading Mean": 984.6406364849396
+        },
+        "2023-08-29": {
+            "Predicted Ecoli Level": 122.19118053316211,
+            "Predicted DNA Reading Mean": 984.6406364849396
+        },
+        "2023-08-30": {
+            "Predicted Ecoli Level": 122.04002174659253,
+            "Predicted DNA Reading Mean": 809.1256357321035
+        },
+        "2023-08-31": {
+            "Predicted Ecoli Level": 121.41665490666925,
+            "Predicted DNA Reading Mean": 814.019065524546
+        },
+        "2023-09-01": {
+            "Predicted Ecoli Level": 120.96322996003111,
+            "Predicted DNA Reading Mean": 829.3498145036498
+        },
+        "2023-09-02": {
+            "Predicted Ecoli Level": 121.29272418339441,
+            "Predicted DNA Reading Mean": 829.1213421031363
+        },
+        "url": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2969.5188387547646!2d-87.6260749240441!3d41.90320396384217!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDU0JzExLjUiTiA4N8KwMzcnMjQuNiJX!5e0!3m2!1sen!2sus!4v1719450026483!5m2!1sen!2sus"
+
+    }
+}

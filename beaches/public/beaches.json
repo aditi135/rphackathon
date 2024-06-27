@@ -7,6 +7,10 @@
       "waveHeight": 0.5,
       "crowdedness": 8
     },
+    "data": {
+      "PredictedEcoliLevel": 122.25187845625187,
+      "PredictedDNAReadingMean": 263.09769886953336
+    },
     "url": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2968.9792882690635!2d-87.62987492404356!3d41.91480396311538!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDU0JzUzLjMiTiA4N8KwMzcnMzguMyJX!5e0!3m2!1sen!2sus!4v1719449969203!5m2!1sen!2sus"
   },
   {
@@ -16,6 +20,10 @@
       "waterTemperature": 71,
       "waveHeight": 0.3,
       "crowdedness": 6
+    },
+    "data": {
+      "PredictedEcoliLevel": 135.17245803138425,
+      "Predicted DNA Reading Mean": 335.55819890981394
     },
     "url": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2969.5188387547646!2d-87.6260749240441!3d41.90320396384217!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDU0JzExLjUiTiA4N8KwMzcnMjQuNiJX!5e0!3m2!1sen!2sus!4v1719450026483!5m2!1sen!2sus"
   },
@@ -27,7 +35,11 @@
       "waveHeight": 0.6,
       "crowdedness": 7
     },
-    "url":"https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d5970367.849588508!2d-90.2950226165625!3d43.05786816781399!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDQyJzUwLjQiTiA4N8KwMzEnMjEuNCJX!5e0!3m2!1sen!2sus!4v1719447274481!5m2!1sen!2sus"
+    "data": {
+      "PredictedEcoliLevel": 154.20659252449607,
+      "Predicted DNA Reading Mean": 695.2814810850463
+    },
+    "url": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2964.0199718451336!2d-87.66917492403853!3d42.021303956436164!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDLCsDAxJzE2LjciTiA4N8KwMzknNTkuOCJX!5e0!3m2!1sen!2sus!4v1719451463382!5m2!1sen!2sus"
   },
   {
     "id": "foster",
@@ -36,6 +48,10 @@
       "waterTemperature": 69,
       "waveHeight": 0.4,
       "crowdedness": 5
+    },
+    "data": {
+      "PredictedEcoliLevel": 154.20659252449607,
+      "Predicted DNA Reading Mean": 695.2814810850463
     },
     "url": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2966.01424345199!2d-87.65407492404054!3d41.97850395912198!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDU4JzQyLjYiTiA4N8KwMzknMDUuNCJX!5e0!3m2!1sen!2sus!4v1719448820845!5m2!1sen!2sus"
   },
@@ -47,7 +63,11 @@
       "waveHeight": 0.2,
       "crowdedness": 4
     },
-    "url":"https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2974.7266680174694!2d-87.58157492404945!3d41.79110397085676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDQ3JzI4LjAiTiA4N8KwMzQnNDQuNCJX!5e0!3m2!1sen!2sus!4v1719448783155!5m2!1sen!2sus"
+    "data": {
+      "PredictedEcoliLevel": 168.79375403218856,
+      "Predicted DNA Reading Mean": 688.1257220069549
+    },
+    "url": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2974.7266680174694!2d-87.58157492404945!3d41.79110397085676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDQ3JzI4LjAiTiA4N8KwMzQnNDQuNCJX!5e0!3m2!1sen!2sus!4v1719448783155!5m2!1sen!2sus"
   },
   {
     "id": "hartigan-beach",
@@ -57,7 +77,11 @@
       "waveHeight": 0.2,
       "crowdedness": 4
     },
-    "url":"https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2964.8868445520043!2d-87.65897492403938!3d42.00270395760378!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDLCsDAwJzA5LjciTiA4N8KwMzknMjMuMCJX!5e0!3m2!1sen!2sus!4v1719448853807!5m2!1sen!2sus"
+    "data": {
+      "PredictedEcoliLevel": 129.55587326661097,
+      "Predicted DNA Reading Mean": 570.6965580275112
+    },
+    "url": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2964.8868445520043!2d-87.65897492403938!3d42.00270395760378!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDLCsDAwJzA5LjciTiA4N8KwMzknMjMuMCJX!5e0!3m2!1sen!2sus!4v1719448853807!5m2!1sen!2sus"
   },
   {
     "id": "howard-beach",
@@ -66,6 +90,10 @@
       "waterTemperature": 73,
       "waveHeight": 0.2,
       "crowdedness": 4
+    },
+    "data": {
+      "PredictedEcoliLevel": 112.1698780159035,
+      "Predicted DNA Reading Mean": 288.6581544444748
     },
     "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2964.1329999266272!2d-87.66641112403862!3d42.01887915658841!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd053ec3bf3df%3A0x15c3cf4d23e05d68!2sHoward%20Beach!5e0!3m2!1sen!2sus!4v1719449855831!5m2!1sen!2sus"
   },
@@ -77,6 +105,10 @@
       "waveHeight": 0.2,
       "crowdedness": 4
     },
+    "data": {
+      "PredictedEcoliLevel": 184.98886286851504,
+      "Predicted DNA Reading Mean": 1368.5652690120812
+    },
     "url": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2964.1329999266272!2d-87.66641112403862!3d42.01887915658841!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDLCsDAwJzQ3LjIiTiA4N8KwMzknNDguNiJX!5e0!3m2!1sen!2sus!4v1719449894476!5m2!1sen!2sus"
   },
   {
@@ -86,6 +118,10 @@
       "waterTemperature": 73,
       "waveHeight": 0.2,
       "crowdedness": 4
+    },
+    "data": {
+      "PredictedEcoliLevel": 154.20659252449607,
+      "Predicted DNA Reading Mean": 695.2814810850463
     },
     "url": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2964.1329999266272!2d-87.66641112403862!3d42.01887915658841!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDLCsDAwJzQ3LjIiTiA4N8KwMzknNDguNiJX!5e0!3m2!1sen!2sus!4v1719449894476!5m2!1sen!2sus"
   },
@@ -97,6 +133,10 @@
       "waveHeight": 0.2,
       "crowdedness": 4
     },
+    "data": {
+      "PredictedEcoliLevel": 154.20659252449607,
+      "Predicted DNA Reading Mean": 695.2814810850463
+    },
     "url": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2972.488835108716!2d-87.6097749240471!3d41.839303967842646!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDUwJzIxLjUiTiA4N8KwMzYnMjUuOSJX!5e0!3m2!1sen!2sus!4v1719449917105!5m2!1sen!2sus"
   },
   {
@@ -106,6 +146,10 @@
       "waterTemperature": 73,
       "waveHeight": 0.2,
       "crowdedness": 4
+    },
+    "data": {
+      "PredictedEcoliLevel": 128.09318911787446,
+      "Predicted DNA Reading Mean": 576.4043398209424
     },
     "url": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2964.26235481526!2d-87.66727492403875!3d42.01610395676265!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDLCsDAwJzU4LjAiTiA4N8KwMzknNTIuOSJX!5e0!3m2!1sen!2sus!4v1719449947043!5m2!1sen!2sus"
   },
@@ -117,6 +161,10 @@
       "waveHeight": 0.2,
       "crowdedness": 4
     },
+    "data": {
+      "PredictedEcoliLevel": 154.20659252449607,
+      "Predicted DNA Reading Mean": 695.2814810850463
+    },
     "url": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2969.5188387547646!2d-87.6260749240441!3d41.90320396384217!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDU0JzExLjUiTiA4N8KwMzcnMjQuNiJX!5e0!3m2!1sen!2sus!4v1719450026483!5m2!1sen!2sus"
   },
   {
@@ -126,6 +174,10 @@
       "waterTemperature": 73,
       "waveHeight": 0.2,
       "crowdedness": 4
+    },
+    "data": {
+      "PredictedEcoliLevel": 136.56634798105142,
+      "Predicted DNA Reading Mean": 505.5370479483555
     },
     "url": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2969.9699211465786!2d-87.61777492404455!3d41.89350396444979!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDUzJzM2LjYiTiA4N8KwMzYnNTQuNyJX!5e0!3m2!1sen!2sus!4v1719450206846!5m2!1sen!2sus"
   },
@@ -137,6 +189,10 @@
       "waveHeight": 0.2,
       "crowdedness": 4
     },
+    "data": {
+      "PredictedEcoliLevel": 122.42592389510898,
+      "Predicted DNA Reading Mean": 862.9826930542426
+    },
     "url": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2964.0199718451336!2d-87.66917492403853!3d42.021303956436164!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDLCsDAxJzE2LjciTiA4N8KwMzknNTkuOCJX!5e0!3m2!1sen!2sus!4v1719450341685!5m2!1sen!2sus"
   },
   {
@@ -146,6 +202,10 @@
       "waterTemperature": 73,
       "waveHeight": 0.2,
       "crowdedness": 4
+    },
+    "data": {
+      "PredictedEcoliLevel": 141.8462570138465,
+      "Predicted DNA Reading Mean": 529.3019866920688
     },
     "url": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2965.585707853626!2d-87.6570749240401!3d41.987703958544984!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDU5JzE1LjciTiA4N8KwMzknMTYuMiJX!5e0!3m2!1sen!2sus!4v1719450229741!5m2!1sen!2sus"
   }
