@@ -67,7 +67,7 @@
   }
   
   /* Reflection effect */
-  .beachTab::after {
+  /* .beachTab::after {
     content: '';
     position: absolute;
     bottom: -50px;
@@ -78,7 +78,7 @@
     filter: blur(10px);
     transform: scaleY(-1);
     transition: opacity 0.3s ease; /* Add transition for reflection */
-  }
+  /* }  */
   
   .beachTab:hover::after {
     opacity: 0.6; /* Fade reflection on hover */
