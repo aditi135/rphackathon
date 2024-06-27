@@ -16,16 +16,18 @@
       "waterTemperature": 71,
       "waveHeight": 0.3,
       "crowdedness": 6
-    }
+    },
+    "url": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2969.5188387547646!2d-87.6260749240441!3d41.90320396384217!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDU0JzExLjUiTiA4N8KwMzcnMjQuNiJX!5e0!3m2!1sen!2sus!4v1719450026483!5m2!1sen!2sus"
   },
   {
-    "id": "montrose",
-    "name": "Montrose Beach",
+    "id": "12th-street",
+    "name": "12th Street Beach",
     "statistics": {
       "waterTemperature": 70,
       "waveHeight": 0.6,
       "crowdedness": 7
-    }
+    },
+    "url":"https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d5970367.849588508!2d-90.2950226165625!3d43.05786816781399!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDQyJzUwLjQiTiA4N8KwMzEnMjEuNCJX!5e0!3m2!1sen!2sus!4v1719447274481!5m2!1sen!2sus"
   },
   {
     "id": "foster",
@@ -34,7 +36,8 @@
       "waterTemperature": 69,
       "waveHeight": 0.4,
       "crowdedness": 5
-    }
+    },
+    "url": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2966.01424345199!2d-87.65407492404054!3d41.97850395912198!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDU4JzQyLjYiTiA4N8KwMzknMDUuNCJX!5e0!3m2!1sen!2sus!4v1719448820845!5m2!1sen!2sus"
   },
   {
     "id": "57th-street",
@@ -43,6 +46,107 @@
       "waterTemperature": 73,
       "waveHeight": 0.2,
       "crowdedness": 4
-    }
+    },
+    "url":"https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2974.7266680174694!2d-87.58157492404945!3d41.79110397085676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDQ3JzI4LjAiTiA4N8KwMzQnNDQuNCJX!5e0!3m2!1sen!2sus!4v1719448783155!5m2!1sen!2sus"
+  },
+  {
+    "id": "hartigan-beach",
+    "name": "Hartigan Beach",
+    "statistics": {
+      "waterTemperature": 73,
+      "waveHeight": 0.2,
+      "crowdedness": 4
+    },
+    "url":"https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2964.8868445520043!2d-87.65897492403938!3d42.00270395760378!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDLCsDAwJzA5LjciTiA4N8KwMzknMjMuMCJX!5e0!3m2!1sen!2sus!4v1719448853807!5m2!1sen!2sus"
+  },
+  {
+    "id": "howard-beach",
+    "name": "Howard Beach",
+    "statistics": {
+      "waterTemperature": 73,
+      "waveHeight": 0.2,
+      "crowdedness": 4
+    },
+    "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2964.1329999266272!2d-87.66641112403862!3d42.01887915658841!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd053ec3bf3df%3A0x15c3cf4d23e05d68!2sHoward%20Beach!5e0!3m2!1sen!2sus!4v1719449855831!5m2!1sen!2sus"
+  },
+  {
+    "id": "leone-beach",
+    "name": "Leone Beach",
+    "statistics": {
+      "waterTemperature": 73,
+      "waveHeight": 0.2,
+      "crowdedness": 4
+    },
+    "url": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2964.1329999266272!2d-87.66641112403862!3d42.01887915658841!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDLCsDAwJzQ3LjIiTiA4N8KwMzknNDguNiJX!5e0!3m2!1sen!2sus!4v1719449894476!5m2!1sen!2sus"
+  },
+  {
+    "id": "leone-beach",
+    "name": "Leone Beach",
+    "statistics": {
+      "waterTemperature": 73,
+      "waveHeight": 0.2,
+      "crowdedness": 4
+    },
+    "url": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2964.1329999266272!2d-87.66641112403862!3d42.01887915658841!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDLCsDAwJzQ3LjIiTiA4N8KwMzknNDguNiJX!5e0!3m2!1sen!2sus!4v1719449894476!5m2!1sen!2sus"
+  },
+  {
+    "id": "margaret-beach",
+    "name": "Margaret Beach",
+    "statistics": {
+      "waterTemperature": 73,
+      "waveHeight": 0.2,
+      "crowdedness": 4
+    },
+    "url": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2972.488835108716!2d-87.6097749240471!3d41.839303967842646!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDUwJzIxLjUiTiA4N8KwMzYnMjUuOSJX!5e0!3m2!1sen!2sus!4v1719449917105!5m2!1sen!2sus"
+  },
+  {
+    "id": "marion-beach",
+    "name": "Marion Beach",
+    "statistics": {
+      "waterTemperature": 73,
+      "waveHeight": 0.2,
+      "crowdedness": 4
+    },
+    "url": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2964.26235481526!2d-87.66727492403875!3d42.01610395676265!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDLCsDAwJzU4LjAiTiA4N8KwMzknNTIuOSJX!5e0!3m2!1sen!2sus!4v1719449947043!5m2!1sen!2sus"
+  },
+  {
+    "id": "oakwood-beach",
+    "name": "Oakwood Beach",
+    "statistics": {
+      "waterTemperature": 73,
+      "waveHeight": 0.2,
+      "crowdedness": 4
+    },
+    "url": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2969.5188387547646!2d-87.6260749240441!3d41.90320396384217!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDU0JzExLjUiTiA4N8KwMzcnMjQuNiJX!5e0!3m2!1sen!2sus!4v1719450026483!5m2!1sen!2sus"
+  },
+  {
+    "id": "ohio-street-beach",
+    "name": "Ohio Street Beach",
+    "statistics": {
+      "waterTemperature": 73,
+      "waveHeight": 0.2,
+      "crowdedness": 4
+    },
+    "url": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2969.9699211465786!2d-87.61777492404455!3d41.89350396444979!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDUzJzM2LjYiTiA4N8KwMzYnNTQuNyJX!5e0!3m2!1sen!2sus!4v1719450206846!5m2!1sen!2sus"
+  },
+  {
+    "id": "rogers-beach",
+    "name": "Rogers Beach",
+    "statistics": {
+      "waterTemperature": 73,
+      "waveHeight": 0.2,
+      "crowdedness": 4
+    },
+    "url": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2964.0199718451336!2d-87.66917492403853!3d42.021303956436164!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDLCsDAxJzE2LjciTiA4N8KwMzknNTkuOCJX!5e0!3m2!1sen!2sus!4v1719450341685!5m2!1sen!2sus"
+  },
+  {
+    "id": "osterman-beach",
+    "name": "Osterman Beach",
+    "statistics": {
+      "waterTemperature": 73,
+      "waveHeight": 0.2,
+      "crowdedness": 4
+    },
+    "url": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2965.585707853626!2d-87.6570749240401!3d41.987703958544984!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDU5JzE1LjciTiA4N8KwMzknMTYuMiJX!5e0!3m2!1sen!2sus!4v1719450229741!5m2!1sen!2sus"
   }
 ]
