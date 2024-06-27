@@ -7,11 +7,13 @@ import BeachTab from "../components/BeachTab.js"
 import {useState, useEffect} from "react"
 import Link from 'next/link';
 import coords from "./data-storage/coordinates-beach.json"
+import axios from 'axios';
 
 export default function Map() {
 
   const [beaches, setBeaches] = useState([]);
   const [isLoading, setIsLoading] = useState(true);
+  const [scriptOutput, setScriptOutput] = useState(null);
 
   useEffect(() => {
     async function fetchBeaches() {
@@ -22,6 +24,10 @@ export default function Map() {
         console.log('hello!');
         console.log(data);
         setBeaches(data);
+
+        const modelResponse = await axios.get('https://127.0.0.1:5000/run_script');
+        setScriptOutput(modelResponse.data);
+
       } catch (error) {
         console.error('Error fetching beach data:', error);
       } finally {
