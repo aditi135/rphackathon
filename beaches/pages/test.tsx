@@ -5,7 +5,7 @@ import Head from "next/head";
 import Beaches from "../components/Beaches.js"
 import BeachTab from "../components/BeachTab.js"
 import {useState, useEffect} from "react"
-
+import Link from 'next/link';
 import coords from "./data-storage/coordinates-beach.json"
 
 export default function Map() {
@@ -40,7 +40,10 @@ export default function Map() {
         </Head>
 
         <main className={styles.container}>
-          <h1>Beach Advisory</h1>
+          <Link href="/" passHref className={styles.returnButton}>
+            <h1>Beach Advisory</h1>
+          </Link>
+
 
           <div className={styles.columns}>
             <div className={styles.left}>

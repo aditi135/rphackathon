@@ -1,14 +1,13 @@
 
 .container {
-    /* width: calc(100% - 10%); */
-    /* height: calc(100% - 10%); */
+    width: calc(100% - 10%);
+    height: calc(100% - 10%);
     /* background: rgba(255, 255, 255, 0.5); 
     border-radius: 3rem; */
-    /* position: fixed; */
-    /* top: 5%;
-    left: 5%;  */
+    position: fixed;
+    top: 5%;
+    left: 3%; 
     /* z-index: 100; */
-    /* background-color: red; */
   }
   
   .columns {
@@ -42,7 +41,8 @@
 
 .columns .right h1,
 .columns .left h1 {
-  color: #ffcc80;
+  color: white;
+  /* #ffcc80; */
   text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
 }
 
@@ -87,4 +87,9 @@
     margin: 0.25rem 0;
     border-radius: 1rem;
   }
+}
+
+.returnButton{
+  text-decoration: none;
+  color: white;
 }
