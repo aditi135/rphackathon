@@ -3,45 +3,15 @@
     "12th Street": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d5970367.849588508!2d-90.2950226165625!3d43.05786816781399!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDQyJzUwLjQiTiA4N8KwMzEnMjEuNCJX!5e0!3m2!1sen!2sus!4v1719447274481!5m2!1sen!2sus",
     "57th Street": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2974.7266680174694!2d-87.58157492404945!3d41.79110397085676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDQ3JzI4LjAiTiA4N8KwMzQnNDQuNCJX!5e0!3m2!1sen!2sus!4v1719448783155!5m2!1sen!2sus",
     "Foster": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2966.01424345199!2d-87.65407492404054!3d41.97850395912198!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDU4JzQyLjYiTiA4N8KwMzknMDUuNCJX!5e0!3m2!1sen!2sus!4v1719448820845!5m2!1sen!2sus",
-    "Hartigan":"https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2964.8868445520043!2d-87.65897492403938!3d42.00270395760378!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDLCsDAwJzA5LjciTiA4N8KwMzknMjMuMCJX!5e0!3m2!1sen!2sus!4v1719448853807!5m2!1sen!2sus",
-    "Howard": [
-        42.0188,
-        -87.6663
-    ],
-    "Leone": [
-        42.0131,
-        -876635
-    ],
-    "Margaret": [
-        41.8393,
-        -87.6072
-    ],
-    "Marion": [
-        42.0161,
-        -87.6647
-    ],
-    "North Avenue": [
-        41.9148,
-        -87.6273
-    ],
-    "Oak Street": [
-        41.9032,
-        -87.6235
-    ],
-    "Oakwood": [
-        41.8211,
-        -87.5976
-    ],
-    "Ohio Street": [
-        41.8935,
-        -87.6152
-    ],
-    "Osterman": [
-        41.9877,
-        -87.6545
-    ],
-    "Rogers": [
-        42.0213,
-        -87.6666
-    ]
+    "Hartigan": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2964.8868445520043!2d-87.65897492403938!3d42.00270395760378!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDLCsDAwJzA5LjciTiA4N8KwMzknMjMuMCJX!5e0!3m2!1sen!2sus!4v1719448853807!5m2!1sen!2sus",
+    "Howard": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2964.1329999266272!2d-87.66641112403862!3d42.01887915658841!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd053ec3bf3df%3A0x15c3cf4d23e05d68!2sHoward%20Beach!5e0!3m2!1sen!2sus!4v1719449855831!5m2!1sen!2sus",
+    "Leone": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2964.1329999266272!2d-87.66641112403862!3d42.01887915658841!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDLCsDAwJzQ3LjIiTiA4N8KwMzknNDguNiJX!5e0!3m2!1sen!2sus!4v1719449894476!5m2!1sen!2sus",
+    "Margaret": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2972.488835108716!2d-87.6097749240471!3d41.839303967842646!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDUwJzIxLjUiTiA4N8KwMzYnMjUuOSJX!5e0!3m2!1sen!2sus!4v1719449917105!5m2!1sen!2sus",
+    "Marion": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2964.26235481526!2d-87.66727492403875!3d42.01610395676265!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDLCsDAwJzU4LjAiTiA4N8KwMzknNTIuOSJX!5e0!3m2!1sen!2sus!4v1719449947043!5m2!1sen!2sus",
+    "North Avenue": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2968.9792882690635!2d-87.62987492404356!3d41.91480396311538!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDU0JzUzLjMiTiA4N8KwMzcnMzguMyJX!5e0!3m2!1sen!2sus!4v1719449969203!5m2!1sen!2sus",
+    "Oak Street": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2969.5188387547646!2d-87.6260749240441!3d41.90320396384217!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDU0JzExLjUiTiA4N8KwMzcnMjQuNiJX!5e0!3m2!1sen!2sus!4v1719450026483!5m2!1sen!2sus",
+    "Oakwood": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2973.3340732373345!2d-87.600174924048!3d41.82110396898101!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDQ5JzE2LjAiTiA4N8KwMzUnNTEuNCJX!5e0!3m2!1sen!2sus!4v1719450183846!5m2!1sen!2sus",
+    "Ohio Street": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2969.9699211465786!2d-87.61777492404455!3d41.89350396444979!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDUzJzM2LjYiTiA4N8KwMzYnNTQuNyJX!5e0!3m2!1sen!2sus!4v1719450206846!5m2!1sen!2sus",
+    "Osterman": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2965.585707853626!2d-87.6570749240401!3d41.987703958544984!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDU5JzE1LjciTiA4N8KwMzknMTYuMiJX!5e0!3m2!1sen!2sus!4v1719450229741!5m2!1sen!2sus",
+    "Rogers": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2964.0199718451336!2d-87.66917492403853!3d42.021303956436164!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDLCsDAxJzE2LjciTiA4N8KwMzknNTkuOCJX!5e0!3m2!1sen!2sus!4v1719450341685!5m2!1sen!2sus"
 }
