@@ -5,6 +5,18 @@ import Beaches from "../components/Beaches.js"
 import BeachTab from "../components/BeachTab.js"
 import {useState, useEffect} from "react"
 
+import coords from "./data-storage/coordinates-beach.json";
+
+interface Beach {
+  id: string;
+  name: string;
+  statistics: {
+    waterTemperature: number;
+    waveHeight: number;
+    crowdedness: number;
+  };
+  url: string; // Ensure 'url' property exists
+}
 import coords from "./data-storage/coordinates-beach.json"
 
 export default function Map() {
@@ -48,7 +60,7 @@ export default function Map() {
             <h1>Left</h1>
             <div className={styles.googlemap}>
               <iframe
-                src= {coords["12th Street"]}
+                src={selectedBeachUrl || coords["12th Street"]}
                 width={600}
                 height={450}
                 style={{ border: '0' }}
@@ -65,7 +77,7 @@ export default function Map() {
               <BeachTab
                 key={beach.id}
                 beach={beach}
-                onClick={() => handleBeachTabClick(beach.url)} // Pass onClick prop correctly
+                onClick={() => handleBeachTabClick(beach.url)}
               />
             ))}
           </div>
