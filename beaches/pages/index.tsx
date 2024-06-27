@@ -1,8 +1,9 @@
 import Head from 'next/head';
 import Link from 'next/link';
+import { CSSProperties } from 'react';
 
 export default function Home() {
-  const sceneStyles = {
+  const sceneStyles: CSSProperties = {
     height: '100vh',
     width: '100vw',
     position: 'relative',
@@ -10,7 +11,7 @@ export default function Home() {
     flexDirection: 'column',
   };
 
-  const skyStyles = {
+  const skyStyles: CSSProperties = {
     width: '100%',
     height: '50%',
     backgroundColor: '#bd4f6c',
@@ -26,20 +27,20 @@ export default function Home() {
     animation: 'sky var(--time) ease infinite',
   };
 
-  const ocean = {
+  const ocean: CSSProperties = {
     backgroundColor: '#add8e6', // Light blue color
     backgroundImage: 'radial-gradient(circle at center, #522343, #411c35)',
   };
 
-  const textStyle = {
+  const textStyle: CSSProperties = {
     fontSize: '3rem',
     fontWeight: 'bolder',
-    zIndex: '300',
+    zIndex: 300,
     color: 'white',
     textShadow: '2px 2px 4px rgba(0, 0, 0, 0.5)',
   };
 
-  const sunStyles = {
+  const sunStyles: CSSProperties = {
     height: '15vw',
     width: '15vw',
     borderRadius: '50%',
@@ -52,7 +53,7 @@ export default function Home() {
     left: '42.4%',
   };
 
-  const starStyles = {
+  const starStyles: CSSProperties = {
     width: '10px',
     height: '10px',
     backgroundColor: 'white',
@@ -60,16 +61,7 @@ export default function Home() {
     position: 'absolute',
   };
 
-  const lineStyles = {
-    width: '0.3em',
-    height: '0.3em',
-    backgroundColor: 'white',
-    zIndex: '-1',
-    borderRadius: '50%',
-    animation: 'stars var(--time) infinite',
-  };
-
-  const buttonStyle = {
+  const buttonStyle: CSSProperties = {
     padding: '15px 30px', // Adjusted padding for top and bottom to center the button vertically
     fontSize: '1rem',
     fontWeight: 'bold',
