@@ -30,7 +30,7 @@ const BeachTab = ({ beach, onClick }) => {
           <li>Wave Height: {beach.statistics.waveHeight} meters</li>
           <li>Crowdedness: {beach.statistics.crowdedness}/10</li>
           <li>Predicted E.Coli Level: {beach.data.PredictedEcoliLevel} cfu /  100 ml</li>
-          <li>Predicted Enterococci Levels: {beach.data.PredictedEcoliLevel} cfu /  100 ml</li>
+          <li>Predicted Enterococci Levels: {beach.data.PredictedDNAReadingMean} cfu /  100 ml</li>
         </ul>
       </div>
     </div>
